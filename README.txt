@@ -2,7 +2,7 @@ This folder contains the implementation of the following paper:
 Reconstructing Missing EHRs Using Time-Aware Within- and Cross-Visit Information for Septic Shock Early Prediction
 
 -----------------------------Files Directory-----------------------------
-code_paper4628
+
 |
 |--code files
 |--data                                 * Put the downloaded datasets here.
@@ -36,7 +36,7 @@ code_paper4628
  
 
 1. Generate imputation results.
-Rscript TADualCS.R
+Rscript TADualCV.R
 
 2. Septic shock 24-hour early prediction.
 python septic_prediction.py [dataset] [missing indicator:1 for with MI; 0 for without MI]
