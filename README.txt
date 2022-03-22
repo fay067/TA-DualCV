@@ -43,12 +43,3 @@ python septic_prediction.py [dataset] [missing indicator:1 for with MI; 0 for wi
 
 An example:
 python septic_prediction.py mimic 1
-
-
------------------------------Data-----------------------------
-Due to the size limitation of the supplementary files that can be uploaded to CMT, we do not provide the data. Please download the full version (182.6M after de-compression)
-to access the sepsis-related data and mimic data (90% mask rate) with 13 features.
-
-
-Data is anonymized.
-Do not distribute the data without permission from data providers. 
