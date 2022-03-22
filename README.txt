@@ -1,11 +1,11 @@
 This folder contains the implementation of the following paper:
-TA-DualCS: Time-Aware Dual-Cross-Sectional Imputation for Multivariate Time Series Clinical Data (paper ID: 4628)
+Reconstructing Missing EHRs Using Time-Aware Within- and Cross-Visit Information for Septic Shock Early Prediction
 
 -----------------------------Files Directory-----------------------------
 code_paper4628
 |
 |--code files
-|--data                                 * Put the downloaded datasets here. We provide example of MIMIC-III dataset.
+|--data                                 * Put the downloaded datasets here.
 |    |--mimic
 |         |
 |         |--data_groundtruth
