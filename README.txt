@@ -1,6 +1,8 @@
 This folder contains the implementation of the following paper:
 Reconstructing Missing EHRs Using Time-Aware Within- and Cross-Visit Information for Septic Shock Early Prediction
 
+The method (TA-DualCV) is a stand-alone imputation method that can handle multivariate time series with missingness, and provides complete data for down-stream usage such as disease prediction.
+
 -----------------------------Files Directory-----------------------------
 
 |
